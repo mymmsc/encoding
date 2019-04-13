@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Data for GBK 2-byte codes.
 // GBK codes are represented in big-endian order.

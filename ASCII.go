@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Converters for ASCII and ISO-8859-1
 

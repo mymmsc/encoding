@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 var jis0208ToUnicode = [65536]uint16{
 	0x2121: 0x3000, // IDEOGRAPHIC SPACE

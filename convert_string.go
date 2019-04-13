@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // ConvertString converts a  string from UTF-8 to e's encoding.
 func (e Encoder) ConvertString(s string) string {

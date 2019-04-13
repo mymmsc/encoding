@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Taken from /src/pkg/html/entity.go in the Go source code.
 

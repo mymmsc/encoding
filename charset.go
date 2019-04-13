@@ -1,5 +1,5 @@
 // This package is a character-set conversion library for Go.
-package mahonia
+package encoding
 
 import (
 	"bytes"

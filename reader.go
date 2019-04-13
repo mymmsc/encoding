@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // This file is based on bufio.Reader in the Go standard library,
 // which has the following copyright notice:

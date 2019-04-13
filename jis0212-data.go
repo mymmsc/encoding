@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 var jis0212ToUnicode = [65536]uint16{
 	0x222F: 0x02D8, // BREVE

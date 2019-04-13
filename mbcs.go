@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Generic converters for multibyte character sets.
 

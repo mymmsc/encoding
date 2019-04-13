@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Converters for Big 5 encoding.
 

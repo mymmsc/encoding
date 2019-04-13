@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // FallbackDecoder combines a series of Decoders into one.
 // If the first Decoder returns a status of INVALID_CHAR, the others are tried as well.

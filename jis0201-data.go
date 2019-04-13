@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 var jis0201ToUnicode = [256]uint16{
 	0x20: 0x0020, // SPACE

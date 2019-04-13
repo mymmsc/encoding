@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 var big5ToUnicode = [65536]uint16{
 	0xA140: 0x3000, // IDEOGRAPHIC SPACE

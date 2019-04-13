@@ -1,4 +1,4 @@
-package mahonia
+package encoding
 
 // Data tables for 4-byte characters in GB18030 encoding.
 // Based on http://source.icu-project.org/repos/icu/data/trunk/charset/data/ucm/gb-18030-2005.ucm
